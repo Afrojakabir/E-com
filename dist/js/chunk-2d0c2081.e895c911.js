@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c2081"],{4928:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[t("router-view")],1)},u=[],c={name:"DefaultLogin",components:{},data:function(){return{cardTitle:"Akaba"}}},r=c,o=t("2877"),i=Object(o["a"])(r,a,u,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0c2081.e895c911.js.map
