@@ -11,7 +11,8 @@
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.15",
     "vue": "^2.6.6",
-    "vue-router": "^3.0.2"
+    "vue-router": "^3.0.2",
+    "vuedraggable": "^2.20.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.5.0",
